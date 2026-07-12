@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the paper below."
+title: >-
+  In-Context Learning Versus Trained Models: Generative AI and Machine
+  Learning for Surface Roughness Prediction in Dry Ti-6Al-4V Turning
+type: software
+authors:
+  - family-names: "Fernandes de Souza"
+    given-names: "Alex"
+  - family-names: "da Silva Campos"
+    given-names: "Paulo Henrique"
+  - family-names: "Alves Neto Verri"
+    given-names: "Filipe"
+  - family-names: "Balestrassi"
+    given-names: "Pedro Paulo"
+repository-code: "https://github.com/<your-user>/<this-repo>"
+license: MIT
